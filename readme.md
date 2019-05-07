@@ -5,8 +5,8 @@
 > Execute migration: php artisan migrate<br />
 > Run project: php -S localhost:8000 -t public
 
-#optional:
-> Run the command below for create new api resource:
+# optional:
+> Run the command below for create new api resource:<br />
 > php artisan wn:resource <resource_name>
 
 
